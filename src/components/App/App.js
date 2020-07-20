@@ -30,7 +30,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">Select a Month</h1>
-          <h3>I TRIED LOL</h3>
+          <h3>I tried stretch and FAILED!!! LOL....Came close though?</h3>
           <br />
         </header>
         <br />
